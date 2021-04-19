@@ -7,4 +7,4 @@ Generator seems to be working reasonably well given the model size.
 Learning rate set at 3e-4 with ADAM as optimizer
 
 
-![Sample Generator outputs](assets/sample.png)
+![Sample Generator outputs](sample.png)
